@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/UA-Viktor/contact_node_front.git/static/css/main.509857e8.css",
-    "main.js": "/UA-Viktor/contact_node_front.git/static/js/main.8eb3f0ee.js",
+    "main.js": "/UA-Viktor/contact_node_front.git/static/js/main.95f7d93f.js",
     "index.html": "/UA-Viktor/contact_node_front.git/index.html",
     "main.509857e8.css.map": "/UA-Viktor/contact_node_front.git/static/css/main.509857e8.css.map",
-    "main.8eb3f0ee.js.map": "/UA-Viktor/contact_node_front.git/static/js/main.8eb3f0ee.js.map"
+    "main.95f7d93f.js.map": "/UA-Viktor/contact_node_front.git/static/js/main.95f7d93f.js.map"
   },
   "entrypoints": [
     "static/css/main.509857e8.css",
-    "static/js/main.8eb3f0ee.js"
+    "static/js/main.95f7d93f.js"
   ]
 }
